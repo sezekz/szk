@@ -2,7 +2,7 @@
 #include <amxmisc>
 #include <cstrike>
 
-#define DNS "CS.LALEAGANE.RO"    // Numele serverului din wgmenu
+#define DNS "CS.PRONATION.RO"    // Numele serverului din wgmenu
 
 #define PREFIX "[WG WATCH]"
 
